@@ -8,6 +8,7 @@ public class Menu {
         Metodos m = new Metodos();
         Validaciones v = new Validaciones();
 
+        //VECTORES DINAMICOS
         LinkedList<EstudianteInge> vector_ingenieros = new LinkedList<>();
 
         LinkedList<EstudianteDise> vector_disenadores = new LinkedList<>();
